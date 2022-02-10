@@ -1,0 +1,70 @@
+﻿"Table with row headers in column A, and column headers in rows 4 through 6. Leading dots indicate subparts",,,,,,,,
+Table 1.5,,,,,,,,
+"Educational Attainment of the Population 25 Years and Over by Sex, Nativity, and U.S. Citizenship Status: 2019",,,,,,,,
+Sex and educational attainment1,Total,,Nativity and U.S. citizenship status,,,,,
+,,,Native,,Naturalized U.S. citizen,,Not a U.S. citizen,
+,Number,Percent,Number,Percent,Number,Percent,Number,Percent
+Both sexes," 221,478 ",100.0," 181,283 ",100.0," 20,751 ",100.0," 19,444 ",100.0
+.Less than 9th grade," 8,603 ",3.9," 2,767 ",1.5," 1,856 ",8.9," 3,980 ",20.5
+.9th to 12th grade (no diploma)," 13,372 ",6.0," 9,420 ",5.2," 1,427 ",6.9," 2,525 ",13.0
+.High school graduate," 62,259 ",28.1," 52,024 ",28.7," 5,263 ",25.4," 4,972 ",25.6
+.Some college or associate's degree," 57,428 ",25.9," 51,183 ",28.2," 4,040 ",19.5," 2,205 ",11.3
+.Bachelor's degree," 49,937 ",22.5," 41,686 ",23.0," 5,036 ",24.3," 3,214 ",16.5
+.Master's degree," 22,214 ",10.0," 18,120 ",10.0," 2,102 ",10.1," 1,993 ",10.2
+.Professional degree," 3,136 ",1.4," 2,568 ",1.4, 394 ,1.9, 174 ,0.9
+.Doctorate degree," 4,529 ",2.0," 3,515 ",1.9, 634 ,3.1, 380 ,2.0
+,                                  ,                                ,                                  ,                                ,                                  ,                                ,                                  ,                                
+.Less than high school diploma," 21,975 ",9.9," 12,187 ",6.7," 3,283 ",15.8," 6,506 ",33.5
+.High school graduate or more," 199,503 ",90.1," 169,096 ",93.3," 17,468 ",84.2," 12,939 ",66.5
+,                                  ,                                ,                                  ,                                ,                                  ,                                ,                                  ,                                
+.Less than bachelor's degree," 141,662 ",64.0," 115,394 ",63.7," 12,586 ",60.7," 13,683 ",70.4
+.Bachelor's degree or more," 79,816 ",36.0," 65,889 ",36.3," 8,165 ",39.3," 5,762 ",29.6
+,                                  ,                                ,                                  ,                                ,                                  ,                                ,                                  ,                                
+.Less than master's degree," 191,599 ",86.5," 157,080 ",86.6," 17,621 ",84.9," 16,897 ",86.9
+.Master's degree or more," 29,880 ",13.5," 24,203 ",13.4," 3,130 ",15.1," 2,547 ",13.1
+,                                  ,                                ,                                  ,                                ,                                  ,                                ,                                  ,                                
+Male," 106,695 ",100.0," 87,239 ",100.0," 9,632 ",100.0," 9,824 ",100.0
+.Less than 9th grade," 4,313 ",4.0," 1,455 ",1.7, 805 ,8.4," 2,053 ",20.9
+.9th to 12th grade (no diploma)," 6,792 ",6.4," 4,832 ",5.5, 652 ,6.8," 1,308 ",13.3
+.High school graduate," 31,257 ",29.3," 26,292 ",30.1," 2,462 ",25.6," 2,503 ",25.5
+.Some college or associate's degree," 26,527 ",24.9," 23,686 ",27.2," 1,805 ",18.7," 1,035 ",10.5
+.Bachelor's degree," 23,785 ",22.3," 19,920 ",22.8," 2,296 ",23.8," 1,570 ",16.0
+.Master's degree," 9,621 ",9.0," 7,555 ",8.7," 1,029 ",10.7," 1,037 ",10.6
+.Professional degree," 1,820 ",1.7," 1,549 ",1.8, 179 ,1.9, 92 ,0.9
+.Doctorate degree," 2,580 ",2.4," 1,950 ",2.2, 404 ,4.2, 226 ,2.3
+,                                  ,                                ,                                  ,                                ,                                  ,                                ,                                  ,                                
+.Less than high school diploma," 11,105 ",10.4," 6,287 ",7.2," 1,457 ",15.1," 3,361 ",34.2
+.High school graduate or more," 95,590 ",89.6," 80,952 ",92.8," 8,175 ",84.9," 6,463 ",65.8
+,                                  ,                                ,                                  ,                                ,                                  ,                                ,                                  ,                                
+.Less than bachelor's degree," 68,889 ",64.6," 56,265 ",64.5," 5,724 ",59.4," 6,899 ",70.2
+.Bachelor's degree or more," 37,807 ",35.4," 30,974 ",35.5," 3,908 ",40.6," 2,925 ",29.8
+,                                  ,                                ,                                  ,                                ,                                  ,                                ,                                  ,                                
+.Less than master's degree," 92,674 ",86.9," 76,185 ",87.3," 8,020 ",83.3," 8,469 ",86.2
+.Master's degree or more," 14,021 ",13.1," 11,054 ",12.7," 1,612 ",16.7," 1,355 ",13.8
+,                                  ,                                ,                                  ,                                ,                                  ,                                ,                                  ,                                
+Female," 114,783 ",100.0," 94,044 ",100.0," 11,119 ",100.0," 9,620 ",100.0
+.Less than 9th grade," 4,290 ",3.7," 1,312 ",1.4," 1,050 ",9.4," 1,928 ",20.0
+.9th to 12th grade (no diploma)," 6,580 ",5.7," 4,588 ",4.9, 775 ,7.0," 1,217 ",12.6
+.High school graduate," 31,002 ",27.0," 25,732 ",27.4," 2,801 ",25.2," 2,468 ",25.7
+.Some college or associate's degree," 30,902 ",26.9," 27,496 ",29.2," 2,235 ",20.1," 1,171 ",12.2
+.Bachelor's degree," 26,151 ",22.8," 21,767 ",23.1," 2,740 ",24.6," 1,644 ",17.1
+.Master's degree," 12,593 ",11.0," 10,565 ",11.2," 1,073 ",9.7, 956 ,9.9
+.Professional degree," 1,317 ",1.1," 1,020 ",1.1, 215 ,1.9, 82 ,0.9
+.Doctorate degree," 1,948 ",1.7," 1,565 ",1.7, 229 ,2.1, 154 ,1.6
+,                                  ,                                ,                                  ,                                ,                                  ,                                ,                                  ,                                
+.Less than high school diploma," 10,870 ",9.5," 5,900 ",6.3," 1,826 ",16.4," 3,144 ",32.7
+.High school graduate or more," 103,913 ",90.5," 88,144 ",93.7," 9,293 ",83.6," 6,476 ",67.3
+,                                  ,                                ,                                  ,                                ,                                  ,                                ,                                  ,                                
+.Less than bachelor's degree," 72,774 ",63.4," 59,129 ",62.9," 6,862 ",61.7," 6,784 ",70.5
+.Bachelor's degree or more," 42,009 ",36.6," 34,916 ",37.1," 4,257 ",38.3," 2,837 ",29.5
+,                                  ,                                ,                                  ,                                ,                                  ,                                ,                                  ,                                
+.Less than master's degree," 98,925 ",86.2," 80,896 ",86.0," 9,602 ",86.4," 8,428 ",87.6
+.Master's degree or more," 15,858 ",13.8," 13,149 ",14.0," 1,517 ",13.6," 1,192 ",12.4
+Footnotes:,,,,,,,,
+1 Educational attainment is measured as highest level of school completed or degree received.,,,,,,,,
+"Note: Numbers in thousands. Universe is the civilian noninstitutionalized population of the United States, plus Armed Forces members who live in housing units - off post or on post - with at least one other civilian adult.",,,,,,,,
+,,,,,,,,
+The U.S. Census Bureau reviewed this data product for unauthorized disclosure of confidential information and approved the disclosure avoidance practices applied to this release. CBDRB-FY20-027.,,,,,,,,
+,,,,,,,,
+"Source: U.S. Census Bureau, Current Population Survey, Annual Social and Economic Supplement, 2019.",,,,,,,,
+Internet release date: April 2020,,,,,,,,
