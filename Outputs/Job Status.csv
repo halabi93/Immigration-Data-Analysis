@@ -1,8 +1,5 @@
-Label (Grouping),2010 or later,2000 to 2009,Before 2000
-In labor force,6317065,8056890,14290361
-Civilian labor force,6298265,8024706,14267606
-Employed,5988052,7745772,13835254
-Unemployed,310213,289662,432352
-Percent of civilian labor force,470020,386216,705416
-Armed Forces,18801,32185,22755
-Not in labor force,3083330,2671326,8464991
+,Label (Grouping),2010 or later,2000 to 2009,Before 2000
+59,                Employed,63.7%,72.2%,60.8%
+60,                Unemployed,3.3%,2.7%,1.9%
+62,            Armed Forces,0.2%,0.3%,0.1%
+63,        Not in labor force,32.8%,24.9%,37.2%
