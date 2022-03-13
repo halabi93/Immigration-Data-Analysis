@@ -1,0 +1,45 @@
+﻿,,Sex,,
+Characteristic,Total,Female,Male,Unknown
+AGE,,,,
+Total,"843,593","464,561","378,792",240
+18 to 19 years,"11,509","6,057","5,449",3
+20 to 24 years,"57,504","30,586","26,916",2
+25 to 29 years,"86,934","48,699","38,225",10
+30 to 34 years,"109,478","62,392","47,075",11
+35 to 39 years,"118,719","66,379","52,327",13
+40 to 44 years,"110,498","58,315","52,166",17
+45 to 49 years,"86,442","45,306","41,115",21
+50 to 54 years,"71,379","38,555","32,790",34
+55 to 59 years,"61,084","33,873","27,180",31
+60 to 64 years,"46,842","26,225","20,578",39
+65 to 74 years,"60,712","34,594","26,075",43
+75 years and over,"22,492",13580,8896,16
+BROAD AGE GROUPS,,,,
+Total,"843,593","464,561","378,792",240
+18 to 20 years,"21,894","11,506","10,385",3
+21 years and over,"821,699","453,055","368,407",237
+MARITAL STATUS,,,,
+Total,"843,593","464,561","378,792",240
+Married,"543,672","297,588","246,083",1
+Single,"177,418","87,211","90,207",-
+Widowed,"26,187","22,429","3,758",-
+Divorced/separated,"81,453","49,563","31,890",-
+Unknown,"14,863","7,770","6,854",239
+OCCUPATION,,,,
+Total,"843,593","464,561","378,792",240
+"Management, professional, and related occupations","117,981","65,931","52,050",-
+Service occupations,"48,182","28,657","19,525",-
+Sales and office occupations,"35,788","25,874","9,914",-
+"Farming, fishing, and forestry occupations","1,697",610,"1,087",-
+"Construction, extraction, maintenance, and repair occupations","21,848","5,611","16,237",-
+"Production, transportation, and material moving occupations","34,016","5,909","28,107",-
+Military,"2,786",658,"2,128",-
+No occupation/not working outside home,"22,485","15,403","7,082",-
+Homemakers,"4,815","4,638",177,-
+Students or children,"2,079","1,112",967,-
+Retirees,"3,963","1,920","2,043",-
+Unemployed,"11,628","7,733","3,895",-
+Unknown,"558,810","315,908","242,662",240
+#NAME?,,,,
+Note: Based on N-400 data for persons aged 18 and over.,,,,
+Source: U.S. Department of Homeland Security.,,,,

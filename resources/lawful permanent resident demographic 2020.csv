@@ -1,0 +1,51 @@
+﻿,,Sex,,
+Characteristic,Total,Female,Male,Unknown
+AGE,,,,
+Total,"707,362","380,786","326,414",162
+Under 1 year,"1,457",714,743,-
+1 to 4 years,"16,472","8,018","8,454",-
+5 to 9 years,"35,965","17,686","18,279",-
+10 to 14 years,"38,124","18,519","19,604",1
+15 to 19 years,"44,624","21,712","22,909",3
+20 to 24 years,"56,125","31,328","24,786",11
+25 to 29 years,"80,726","46,105","34,616",5
+30 to 34 years,"96,353","50,874","45,469",10
+35 to 39 years,"84,960","44,103","40,847",10
+40 to 44 years,"68,154","36,392","31,745",17
+45 to 49 years,"56,590","30,891","25,676",23
+50 to 54 years,"41,476","23,661","17,786",29
+55 to 59 years,"30,634","17,810","12,808",16
+60 to 64 years,"22,357","13,252","9,088",17
+65 to 74 years,"24,876","14,609","10,254",13
+75 years and over,"8,468","5,111","3,350",7
+Unknown,1,1,-,-
+BROAD AGE GROUPS,,,,
+Total,"707,362","380,786","326,414",162
+Under 16 years,"100,352","49,047","51,304",1
+16 to 20 years,"47,132","23,171","23,956",5
+21 years and over,"559,877","308,567","251,154",156
+Unknown,1,1,-,-
+MARITAL STATUS,,,,
+Total,"707,362","380,786","326,414",162
+Married,"435,758","240,691","194,963",104
+Single,"230,043","110,683","119,315",45
+Widowed,"14,172","12,576","1,586",10
+Divorced/separated,"19,010","13,195","5,812",3
+Unknown,"8,379","3,641","4,738",-
+OCCUPATION,,,,
+Total,"707,362","380,786","326,414",162
+"Management, professional, and related occupations","107,321","47,215","60,096",10
+Service occupations,"34,219","20,458","13,748",13
+Sales and office occupations,"35,177","19,401","15,766",10
+"Farming, fishing, and forestry occupations","6,942","1,457","5,480",5
+"Construction, extraction, maintenance, and repair occupations","10,681",428,"10,247",6
+"Production, transportation, and material moving occupations","30,115","7,834","22,274",7
+Military,118,21,97,-
+No occupation/not working outside home,"235,537","144,685","90,791",61
+Homemakers,"49,385","47,038","2,321",26
+Students or children,"139,629","68,382","71,223",24
+Retirees,"1,654",945,708,1
+Unemployed,"44,869","28,320","16,539",10
+Unknown,"247,252","139,287","107,915",50
+#NAME?,,,,
+Source: U.S. Department of Homeland Security.,,,,
