@@ -1,4 +1,4 @@
-# Project1-Group6
+# Immigration-Data-Analysis
 
 Link to presentation: https://docs.google.com/presentation/d/1NCS7HoC4qv4i8DwB_nhaQ60rQMgjQhUa13Bfh4S3qY4/edit?usp=sharing 
 
@@ -40,4 +40,20 @@ We analyzed data taken from “Selected Characteristics Of The Foreign-Born Popu
 
 Findings:
 In the years following 2010, the number of immigrants attending school in the US nearly doubled in comparison to the prior decade. Prior to 2000, nearly 92% of school attending immigrants were in college or graduate school, whereas in the following decades there was an increased variety of school types among immigrants signifying a more age-diverse inclusion of immigrants.
+
+
+Sample Visualisations 
+
+![Immigrant Location](https://user-images.githubusercontent.com/34605330/167641017-06184aa1-9b6f-4667-8a57-7955060d78b8.svg)
+
+![EducationDecade](https://user-images.githubusercontent.com/34605330/167641137-cea6d475-2b8d-45c2-8b3c-8650c3080251.svg)
+
+![Immigrant Admissions](https://user-images.githubusercontent.com/34605330/167641202-13962240-bc13-4f1b-be5f-447370ac4bad.svg)
+
+![PermResYear](https://user-images.githubusercontent.com/34605330/167641280-9a4be88a-11d7-4b36-b58d-3e294bcb76fc.svg)
+
+
+
+
+
 
