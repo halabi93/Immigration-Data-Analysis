@@ -42,7 +42,7 @@ Findings:
 In the years following 2010, the number of immigrants attending school in the US nearly doubled in comparison to the prior decade. Prior to 2000, nearly 92% of school attending immigrants were in college or graduate school, whereas in the following decades there was an increased variety of school types among immigrants signifying a more age-diverse inclusion of immigrants.
 
 
-Sample Visualisations 
+Sample Visualisations: 
 
 ![Immigrant Location](https://user-images.githubusercontent.com/34605330/167641017-06184aa1-9b6f-4667-8a57-7955060d78b8.svg)
 
